@@ -47,7 +47,7 @@ Fully settings and port features version.
 1. open browser
 2. go to http://[your ip or localhost]:8181
 3. input username and password.
-4. enjoy, or sudo chown ubuntu: -R ~/workspace before using.
+4. enjoy, or sudo chown ubuntu: -R ~/workspace after start then refresh.
 
 ## Custom
 if you want to change login username:password, modify --auth parameters you want.  
